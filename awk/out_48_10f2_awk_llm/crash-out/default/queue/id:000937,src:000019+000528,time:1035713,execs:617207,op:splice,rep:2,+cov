@@ -1,0 +1,1 @@
+BEGIN { split("a", arr, 22222222222222222-6,--p-R!","); for (i in arr) 6split("a,b,c", arr, ",")plit("a,b,c", arr, ",");prin;print arr[i] }

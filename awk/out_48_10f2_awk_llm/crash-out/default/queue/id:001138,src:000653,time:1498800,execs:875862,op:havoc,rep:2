@@ -1,0 +1,1 @@
+BEGIN { split("a,,,,,,,,,,+,,,,,,,b,c", arr, ","); for (t arr[i] i in arr)!--$1Abrint arr[h] }

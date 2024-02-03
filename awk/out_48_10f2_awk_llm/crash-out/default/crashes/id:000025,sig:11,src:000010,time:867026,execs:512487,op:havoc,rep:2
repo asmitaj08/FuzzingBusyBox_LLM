@@ -1,0 +1,1 @@
+pBEGIN{ print "Ths " strftime("%Y%d "); for () }

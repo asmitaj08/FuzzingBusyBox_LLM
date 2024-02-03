@@ -1,0 +1,1 @@
+BEGIN { split("a,,+,,,,,,,,$$$$$$$$,,,,,,,,,,b,c", arr, ","); for (t arr[i] i in arr)!b[i] i in ar }

@@ -1,0 +1,1 @@
+BEGIN { split("a", arrp-R!","); for (i in arr)  split("a", arp-R!","); for (i in arr)  split("a,b,c", arr, "lit("a,b,c","a,b,c",p-R!#,"); for (i in arr)  split("a,b,c", arp-R!","); for (i in arr)  split("a,b,c", arr, ",");print arr[i] }

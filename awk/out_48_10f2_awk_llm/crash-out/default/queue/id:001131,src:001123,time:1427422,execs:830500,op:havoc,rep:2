@@ -1,0 +1,1 @@
+BEGIN {for(i=1;i<83;i++) i in a---pj--NF %i}

@@ -1,0 +1,1 @@
+NR % 2 ==N{ sum += Wor} END NR % 2< $1 ld, Wor!"; pr!"; prin

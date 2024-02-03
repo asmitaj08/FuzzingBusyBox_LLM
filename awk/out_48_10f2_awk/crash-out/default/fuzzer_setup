@@ -1,0 +1,6 @@
+# environment variables:
+AFL_CUSTOM_INFO_PROGRAM=../out_48_10f2_awk/busybox
+AFL_CUSTOM_INFO_PROGRAM_ARGV=awk -f @@
+AFL_CUSTOM_INFO_OUT=../out_48_10f2_awk/crash-out/default
+# command line:
+'/home/asmita/AFLpluplus_arm_exec/afl-fuzz' '-Q' '-i' '../in_dir/' '-o' '../out_48_10f2_awk/crash-out' '--' '../out_48_10f2_awk/busybox' 'awk' '-f' '@@'

@@ -1,0 +1,1 @@
+BEGIN {sum += $1 } END{ sum += $1 } EfarZj=!!!!!NR % 2 ==N{ sum += $1 } END{ sum += $1 } END NR % D N 2 ==I{

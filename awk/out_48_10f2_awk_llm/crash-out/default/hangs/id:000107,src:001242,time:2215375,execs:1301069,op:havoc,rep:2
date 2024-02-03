@@ -1,0 +1,1 @@
+BEGIN {for(i=1;i<=3;t++) i in a---pC--NF %split("a", arr, -6---p-R!",")U}

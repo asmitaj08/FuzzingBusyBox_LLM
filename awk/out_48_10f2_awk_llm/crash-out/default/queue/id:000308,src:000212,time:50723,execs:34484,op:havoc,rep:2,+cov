@@ -1,0 +1,1 @@
+NR % 2 ==N{ s NR %um += $1 } END NF % 2<ld!"; pr!"; prin

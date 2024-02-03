@@ -1,0 +1,1 @@
+BEGIN {for(i=1;ihnt substr($0A 1, 5)TTT<=3;i++) pri~t "i=",--NR %i}

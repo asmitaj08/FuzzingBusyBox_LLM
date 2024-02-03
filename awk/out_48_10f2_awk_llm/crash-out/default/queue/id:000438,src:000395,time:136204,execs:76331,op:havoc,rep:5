@@ -1,0 +1,2 @@
+BEGIN {for(i=1;i<=3;i++)for(plit("a,b,c", arr, ",")i=1;i<=3;i+
+","); for (i in arr) print "i

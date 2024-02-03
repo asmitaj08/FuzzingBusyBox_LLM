@@ -1,0 +1,1 @@
+BEGIN {for(i=1;V<=3;ND NXA$ 2--%i++) print "i=",i}

@@ -1,0 +1,1 @@
+NR % 2 ==N{ sum += $1 } END NR % S  World!"; pr!"; prin

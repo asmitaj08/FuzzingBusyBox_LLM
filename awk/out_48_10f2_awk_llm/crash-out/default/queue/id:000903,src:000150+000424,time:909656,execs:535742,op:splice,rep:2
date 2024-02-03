@@ -1,0 +1,1 @@
+BEGIN { split(arr, ","); for (i in-R!","); r (i in-R!","); for (i in arr) for (i in arr) print arr[i]ß}

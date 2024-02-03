@@ -1,0 +1,2 @@
+BEGIN {for(i==1;i4=3;N N$$$ 2---i++) print
+"i=",i}

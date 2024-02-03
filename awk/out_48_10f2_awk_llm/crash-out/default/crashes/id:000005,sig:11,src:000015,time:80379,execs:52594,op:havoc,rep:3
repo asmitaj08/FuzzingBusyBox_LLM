@@ -1,0 +1,1 @@
+BEGIN {for() print "nt "i=",i}

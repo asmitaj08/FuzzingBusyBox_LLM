@@ -1,0 +1,4 @@
+../out_48_10f2_awk/busybox
+awk
+-f
+@@

@@ -1,0 +1,1 @@
+BEGIN print>"i="<=3;BEGIN print>"i="EGIN {print toupper("awk")} END {p

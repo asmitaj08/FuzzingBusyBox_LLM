@@ -1,0 +1,1 @@
+BEGIN {for(i=1;i<=3;i++)for(i=1;i<=Ny sum += $1t=3;i++) print "i="-i}

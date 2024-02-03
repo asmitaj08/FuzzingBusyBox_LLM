@@ -1,0 +1,5 @@
+NR %=NRm += $1 %NR d
+200 d
+2R %N % 2 ==N{ sum += $1 %NR d
+200 d
+2R %NR d	1} END NR % K  d!"; p

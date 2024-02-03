@@ -1,0 +1,3 @@
+BEGIN { sNlit("rr, <,"); gor in arr;;;;;;;;;;;;;;;;;;;;;;it(1} END
+200 d
+2R %NR d	;;;;;;;;; (i  <,"); ip arr;;Z) print arr[t] }

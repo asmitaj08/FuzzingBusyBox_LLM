@@ -1,0 +1,1 @@
+BEGIN {for(i=1;i<=3;ND 2--- N$$$i++) print "è",i}

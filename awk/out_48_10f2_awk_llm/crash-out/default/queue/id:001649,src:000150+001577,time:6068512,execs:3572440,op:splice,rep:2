@@ -1,0 +1,1 @@
+BEGIN {for(i=151111111;i%33;+i++)  for (i in arr) print -----i in a---p---p,--NR %ulower("AWK")}

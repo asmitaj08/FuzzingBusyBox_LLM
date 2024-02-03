@@ -1,0 +1,8 @@
+BEGIN {for(i=1;i<=3;i+L) print "a=",i}B
+
+
+
+
+
+
+

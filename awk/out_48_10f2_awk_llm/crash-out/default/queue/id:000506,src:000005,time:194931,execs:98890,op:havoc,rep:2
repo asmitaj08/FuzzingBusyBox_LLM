@@ -1,0 +1,1 @@
+BEGIN {print toupper("awk")("awk")} BEGIN {print touppint tolower("AWK")}

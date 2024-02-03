@@ -1,0 +1,1 @@
+BEGIN {for(iN1;i<=3;i++) print "i=",i}

@@ -1,0 +1,1 @@
+BEGIN {for(i=1;i<=3;a++) i in a---p,--NF %i}

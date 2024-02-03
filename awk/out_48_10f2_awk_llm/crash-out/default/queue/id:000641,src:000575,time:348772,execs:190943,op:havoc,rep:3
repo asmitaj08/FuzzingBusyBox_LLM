@@ -1,0 +1,1 @@
+BEGIN { split("aI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,b,,,,,,,,,,,,,,,,,,,,c", arr, ","); for (t arr[i] i in arr)!brint arr[h] }

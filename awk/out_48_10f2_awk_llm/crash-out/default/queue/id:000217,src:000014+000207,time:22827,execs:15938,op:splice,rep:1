@@ -1,0 +1,4 @@
+NR % 2 ==NR % 2 ==N{ sum += $1 %NRR d
+ d
+200 d
+2R %NR d	1} END NR % K  World!"; p

@@ -1,0 +1,1 @@
+BEGIN { print "S" } { print $1 } END { priint "Start" } { print $1 } END { print nt "EnL"            }

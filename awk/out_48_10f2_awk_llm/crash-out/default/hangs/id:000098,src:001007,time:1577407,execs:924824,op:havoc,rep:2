@@ -1,0 +1,1 @@
+BEGIN {for( FS=" "usum 1;S<=3;ND N$$$ 2---i++) print "i=",i}

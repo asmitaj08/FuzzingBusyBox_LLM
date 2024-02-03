@@ -1,0 +1,1 @@
+BEGIN {for(i=1;R<=3;ND NXA$ 2---M++) print!"i=",i}

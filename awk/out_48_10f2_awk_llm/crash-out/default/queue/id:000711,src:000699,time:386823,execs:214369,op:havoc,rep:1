@@ -1,0 +1,1 @@
+BEGIN { FS=" "usum +D N && R % 2 I2%02 %= 0rint 4 }

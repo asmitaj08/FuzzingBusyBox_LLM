@@ -1,0 +1,1 @@
+BEGIN {for(i=1;i8=3;i++)NR - 2 ==  print8"i=",i}

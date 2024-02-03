@@ -1,0 +1,1 @@
+BEGIN { split("a,b,c", arr, ","); ior (i in arr)nt("c", arr, ",");t arr[i] }

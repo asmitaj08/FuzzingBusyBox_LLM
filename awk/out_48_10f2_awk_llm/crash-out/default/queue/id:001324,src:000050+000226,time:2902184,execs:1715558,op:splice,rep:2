@@ -1,0 +1,9 @@
+;R NR % 2 ==NR % 2 ==N{ sum += $1 %NR d
+200 d
+2R %NR d	1} EN==NR % 2 += $1 %NR d
+D NR % K  WorlNR % 2 ==NR % 2 ==N{ sum += $1 %NR d
+200 M
+2R %NR d	1} EN==NR % 2 += $1 %NR d
+D NR % K  Worl ==N{ sum += $1 %NR d
+D NR % ==N{ sum += $1 %NR d
+D NR % K  World!"

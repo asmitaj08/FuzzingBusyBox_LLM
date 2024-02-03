@@ -1,0 +1,1 @@
+BEGIN { split("a,b,c", arr, -6666666%---p-R!","); for (i in arr) print arr[i] }

@@ -1,0 +1,1 @@
+BEGIN { FS= FS=" "usum "f0 2 I=" "usum + % 2 I= 0rint      "     4 }

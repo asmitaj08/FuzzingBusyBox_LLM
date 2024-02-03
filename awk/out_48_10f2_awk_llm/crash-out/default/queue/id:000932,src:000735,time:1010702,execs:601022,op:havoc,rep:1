@@ -1,0 +1,1 @@
+BEGIN { split("a,,,ττττττττττττττττττττττττττττc", arr,R","); for (t arr[i] i in arr)!brint arre[] }

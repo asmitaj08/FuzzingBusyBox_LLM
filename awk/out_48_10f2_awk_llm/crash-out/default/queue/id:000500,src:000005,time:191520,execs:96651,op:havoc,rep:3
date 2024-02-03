@@ -1,0 +1,1 @@
+BE {print toupper("awk")} END {print tolower("t toupper("a+k"AWK")}

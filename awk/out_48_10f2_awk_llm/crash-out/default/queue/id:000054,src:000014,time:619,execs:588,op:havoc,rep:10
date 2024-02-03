@@ -1,0 +1,2 @@
+NR  0            0   $      %$2
+{ êm += $1 } END { print sumU= 0

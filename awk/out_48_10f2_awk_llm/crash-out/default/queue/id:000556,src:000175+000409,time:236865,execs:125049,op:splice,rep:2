@@ -1,0 +1,1 @@
+BEGIN { split("a,b,fffffffNb, arr, -6-c", a--p-R!","); for (i in arr) print arr[i] }

@@ -1,0 +1,1 @@
+BEGIN { split("a,bnnnnnnnnnn___________________R_________________________nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnt=__________________________________________k__nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn________ ,c", arr,a,b---p-R!","); for (i in arr) prin^ a~r[i] }

@@ -1,0 +1,1 @@
+BEGIN { ssplit("a,b,c", arr """"""""""""""""""""""""""""","); for (i iw arr) prin‹ arr[i] }

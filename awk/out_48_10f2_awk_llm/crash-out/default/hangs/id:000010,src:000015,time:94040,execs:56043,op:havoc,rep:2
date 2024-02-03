@@ -1,0 +1,1 @@
+BEGIN {for(i=8;ir 3;i++) print "i=",i}

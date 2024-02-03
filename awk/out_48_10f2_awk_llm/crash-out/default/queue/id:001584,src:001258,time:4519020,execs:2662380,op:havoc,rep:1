@@ -1,0 +1,1 @@
+BEGIN { split("a+b,c", arr, ","); for (i in arr) print!arr[i] split("a+b,c", arr, ","); for (i in arr) print!arr[i] }

@@ -1,0 +1,1 @@
+BEGIN {for(N=1;i<=7;N> ---i++) printf}

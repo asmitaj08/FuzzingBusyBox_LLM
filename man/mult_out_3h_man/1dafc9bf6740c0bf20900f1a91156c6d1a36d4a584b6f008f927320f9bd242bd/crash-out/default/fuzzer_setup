@@ -1,0 +1,6 @@
+# environment variables:
+AFL_CUSTOM_INFO_PROGRAM=../mult_out_3h_man/1dafc9bf6740c0bf20900f1a91156c6d1a36d4a584b6f008f927320f9bd242bd/busybox
+AFL_CUSTOM_INFO_PROGRAM_ARGV=man @@
+AFL_CUSTOM_INFO_OUT=../mult_out_3h_man/1dafc9bf6740c0bf20900f1a91156c6d1a36d4a584b6f008f927320f9bd242bd/crash-out/default
+# command line:
+'/home/asmita/AFLpluplus_arm_exec/afl-fuzz' '-Q' '-i' '../in_dir/' '-o' '../mult_out_3h_man/1dafc9bf6740c0bf20900f1a91156c6d1a36d4a584b6f008f927320f9bd242bd/crash-out' '--' '../mult_out_3h_man/1dafc9bf6740c0bf20900f1a91156c6d1a36d4a584b6f008f927320f9bd242bd/busybox' 'man' '@@'

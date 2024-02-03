@@ -1,0 +1,1 @@
+BEGIN {for(i=1; OXA$92--i<=3;ND OXA$92---i++) print "i=",i}

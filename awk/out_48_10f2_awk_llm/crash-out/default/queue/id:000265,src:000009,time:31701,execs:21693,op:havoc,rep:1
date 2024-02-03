@@ -1,0 +1,1 @@
+BEGIN { split("a", arr, ","); for (i in arr) p split("a,b,c", arr, ","); for (rint arr[i] }

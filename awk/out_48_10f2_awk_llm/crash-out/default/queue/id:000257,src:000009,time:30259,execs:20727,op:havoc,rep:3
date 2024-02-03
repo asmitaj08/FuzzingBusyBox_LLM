@@ -1,0 +1,1 @@
+BEGIN { split("aplit("a,b,c",c", arr,                      ","); for (i in arr) prixt arr[i] }

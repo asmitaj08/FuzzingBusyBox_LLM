@@ -1,0 +1,1 @@
+BEGIN { RS="<Rrild!";t 4 }BEGIN { RS=" -2< World!";t 4 RS="<Rrio 2< World!";t 4 }BEGIN { RS=" }

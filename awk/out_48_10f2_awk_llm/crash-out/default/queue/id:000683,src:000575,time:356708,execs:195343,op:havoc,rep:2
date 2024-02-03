@@ -1,0 +1,1 @@
+BEGIN { split("a,,,,,,,,,,,,,,,,,,,,,,, ","); foU (", arr, ","); for (t arr[i] i in arr)!brint arr[h] }

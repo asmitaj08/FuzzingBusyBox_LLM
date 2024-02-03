@@ -1,0 +1,1 @@
+BEGIN { print "Start" } { print $1 } END { print "End" }

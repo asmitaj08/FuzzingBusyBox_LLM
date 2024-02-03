@@ -1,0 +1,1 @@
+BEGIN { FS= FS=" "usum +D N && R % 2 I=" "usum +L N && RR %  2 5= 2 == 5 5= 2 N= 0 % 2 I= 0rint == 4 }

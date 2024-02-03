@@ -1,0 +1,1 @@
+""NR % 2 ==N{ sum += $1 } END NR % 99: e : == 0R e 2 =2  Worhd!";pr!"; pr

@@ -1,0 +1,1 @@
+BEGIN {FS<" "usum +D N &&I= 0rin FS=" "usum +D N &&l= 0rint 4 }

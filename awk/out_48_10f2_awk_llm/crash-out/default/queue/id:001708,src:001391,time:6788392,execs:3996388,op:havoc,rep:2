@@ -1,0 +1,1 @@
+BEGIN { split("a,bnnnnnnnnnnnnnnnnnn, ur\ ur\\\\\\\\\\\\\\\\\\\\\\0\\\\\\\\\\\0\\\\\\\nnnnnnnnnnnnnnnnnnnt=________________H_________________________________________________________________________________ ,c", arr,a,b---p-R!","); for (i in arr) prin^ arr[i] }

@@ -1,0 +1,1 @@
+BEGIN {prinr toupper("awk")} ENCIN {prinr toupper("awk")} {print0tolower("AWK")}

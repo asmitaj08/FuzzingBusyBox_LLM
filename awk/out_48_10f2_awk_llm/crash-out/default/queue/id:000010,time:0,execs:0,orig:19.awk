@@ -1,0 +1,1 @@
+BEGIN{ print "Ths " strftime("%Y%d %H:%M:%S") }

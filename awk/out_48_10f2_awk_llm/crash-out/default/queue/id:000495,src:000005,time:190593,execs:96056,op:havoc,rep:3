@@ -1,1 +1,0 @@
-BEGIN {print toupper("awk)} {printGIN {print!to")}

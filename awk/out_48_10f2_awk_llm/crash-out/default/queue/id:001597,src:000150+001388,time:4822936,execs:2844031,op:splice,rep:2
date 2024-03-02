@@ -1,1 +1,0 @@
-BEGIN { split("a,bnt= ( 0, 1G=5)subst,c", arr,a,b---p-R!","); for (i in arr)n^!arr[i] }

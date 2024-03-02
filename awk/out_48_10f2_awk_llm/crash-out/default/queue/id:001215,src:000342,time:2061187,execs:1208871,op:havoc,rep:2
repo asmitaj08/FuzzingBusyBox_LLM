@@ -1,1 +1,0 @@
-NR % 2 ==N{ sum += $1 } END gsub(/match/, "rce") gsub(/match/, "replPce");; p

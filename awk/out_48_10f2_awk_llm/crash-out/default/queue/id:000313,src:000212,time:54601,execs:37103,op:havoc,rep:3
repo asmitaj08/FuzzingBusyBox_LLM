@@ -1,1 +1,0 @@
-NR % 2 ==N{ sum += $1 } END{ sum += $1 } END NR % D NR % 2< dorld!"; pr!"; prin

@@ -1,1 +1,0 @@
-BEGIN {t "i=",i split("a", arr, -6-- in arr)  split("a,b,c", arr, ","arr)  split("a,b,c", arr);print$arr[i] }

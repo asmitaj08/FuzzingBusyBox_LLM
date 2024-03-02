@@ -1,1 +1,0 @@
-BEGIN {print toupper("aÿ")} END {print bolower("AdK")}

@@ -1,1 +1,0 @@
-BEGIN {print toupper("awkIN {pr")} END {print tolower("AWK")}

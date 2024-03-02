@@ -1,1 +1,0 @@
-NR % 2 ==N{ swm += $1 } END Nn(i in arr) !"; pr!"; priR

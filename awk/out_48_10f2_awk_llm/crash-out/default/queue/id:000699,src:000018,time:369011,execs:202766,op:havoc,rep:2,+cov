@@ -1,1 +1,0 @@
-BEGIN { FS=" "usum +D N && R % 2 I= 0rint 4 }

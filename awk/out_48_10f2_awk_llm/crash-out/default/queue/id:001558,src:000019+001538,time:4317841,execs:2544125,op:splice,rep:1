@@ -1,1 +1,0 @@
-BEGIN { split("a,foooooooooooooooooooooooooooooooo\ooooooooeooooooooooooooVoooooooooooooooooooooooooooooooooor(i=1;i<= ,c", arr,a,b---p-R!","); for (i in arr) prin> orr[i] r[i] }

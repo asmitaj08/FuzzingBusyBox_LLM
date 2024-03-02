@@ -1,1 +1,0 @@
-BEGIN { split(""); for (i in arr) prin4 arr[i] }

@@ -1,1 +1,0 @@
-{ if ($1 ~ /pattern/) print $0 }

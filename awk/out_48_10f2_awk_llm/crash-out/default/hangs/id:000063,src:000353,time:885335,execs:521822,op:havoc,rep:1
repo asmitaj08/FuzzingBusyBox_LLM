@@ -1,1 +1,0 @@
-BEGIN {for(i=1;m +D N && R ------i<=3;i++) print>"i=",i}

@@ -1,1 +1,0 @@
-BEGIN {for(i=ÿÿ=3;i++) pvint "i=",i}

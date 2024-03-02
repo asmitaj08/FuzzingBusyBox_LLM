@@ -1,1 +1,0 @@
-BEGIN { a="H, World!"; print a }

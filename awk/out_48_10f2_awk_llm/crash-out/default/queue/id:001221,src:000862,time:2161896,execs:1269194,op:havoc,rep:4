@@ -1,1 +1,0 @@
-BEGIN {for(M=1;i<=3;i++!!!!substr($0, 1, 9)TTTTT) print>"ifor(M= } END NR % "!i}

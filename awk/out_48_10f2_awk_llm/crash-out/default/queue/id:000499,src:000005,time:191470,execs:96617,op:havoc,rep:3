@@ -1,1 +1,0 @@
-BEGIN {print toupper("awkÿÿ} {print  % 2------WK")}

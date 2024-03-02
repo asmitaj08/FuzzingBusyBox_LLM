@@ -1,1 +1,0 @@
-BEGIN {for(i=1;i<=3;ND ++) printI"i=",iintI"i=",i}

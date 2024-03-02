@@ -1,1 +1,0 @@
-BEGIN {for(MS1;i<23;i++) print>"M="!ipWint "È=",i}

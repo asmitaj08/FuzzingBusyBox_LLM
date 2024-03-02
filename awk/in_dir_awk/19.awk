@@ -1,1 +1,0 @@
-BEGIN{ print "The time is " strftime("%Y-%m-%d %H:%M:%S") }

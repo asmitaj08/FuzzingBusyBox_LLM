@@ -1,1 +1,0 @@
-NR % 2 ==N{ sum += $1 } END NR % 99R e 2 == 0R e 2 =2  Worhd!";pr!"; prin

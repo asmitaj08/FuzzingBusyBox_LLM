@@ -1,1 +1,0 @@
-BEGIN                             {for(i=1;i == 0H S%1ACNR % 2 NR % 2<=3;i++) pri~t "i=",i}

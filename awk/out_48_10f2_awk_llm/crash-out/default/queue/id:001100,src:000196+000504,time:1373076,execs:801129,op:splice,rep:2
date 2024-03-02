@@ -1,1 +1,0 @@
-NR % 2 ==N{ { sueper("awk")} {prinr toupper("awk")} ENCIN {p

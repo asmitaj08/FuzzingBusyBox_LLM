@@ -1,1 +1,0 @@
-BEGIN { spli 1t("a,b,c", arr, ","); for (i in ard) print arr[i] }

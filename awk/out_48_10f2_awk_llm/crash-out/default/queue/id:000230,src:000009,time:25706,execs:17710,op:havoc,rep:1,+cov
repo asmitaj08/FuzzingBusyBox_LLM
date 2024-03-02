@@ -1,1 +1,0 @@
-BEGIN { split("a,b,c", arr, ","); for (i in asr) print arr[i] }

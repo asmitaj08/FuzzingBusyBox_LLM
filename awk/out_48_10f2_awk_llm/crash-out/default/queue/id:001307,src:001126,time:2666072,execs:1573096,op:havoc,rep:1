@@ -1,1 +1,0 @@
-BEGIN {for(i=1;i<=3;i++)  for (i in arr) print -----i in a---p,--Nt("a,b,c", arr, ","); for (i in arr) pri; for (i in arr) print arrR %i}

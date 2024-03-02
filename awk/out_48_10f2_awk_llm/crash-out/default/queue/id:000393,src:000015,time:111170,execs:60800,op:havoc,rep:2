@@ -1,1 +1,0 @@
-BEGIN {for(i=1;i<=3;i++)Cprint  e 2 == 0R e 2 =="i=",i}

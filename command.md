@@ -1,3 +1,0 @@
-python3 fuzz_one_target_main.py --input ../../../applet_based_busybox_collection_arm32/man/10f2745c3fe7fb56c3ed4fdfe5450d83cc44176407bd4af957ce1224123665ba --arch ARM_32 --corpus ../in_dir/ --output ../out_48_10f2_man/ --afl-path path/ --run-time 172800 --depend arm_depedencies/ 
-
-python3 fuzz_multiple_targets.py --input ../../../applet_based_busybox_collection_arm32/md5sum/ --arch ARM_32 --corpus ../in_dir/ --output ../mult_out_3h_md5sum/ --afl-path path/  --run-time 10800 --depend arm_depedencies/ 

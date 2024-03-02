@@ -1,1 +1,0 @@
-BEGIN {for(rin;i<=3;i+C) pi=1t "P=",i}

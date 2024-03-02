@@ -1,1 +1,0 @@
-{gsub(/match/, "replace"); print}

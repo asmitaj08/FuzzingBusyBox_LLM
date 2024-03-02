@@ -1,1 +1,0 @@
-BEGIN { OFS = "\n" } { print $1, $2 }

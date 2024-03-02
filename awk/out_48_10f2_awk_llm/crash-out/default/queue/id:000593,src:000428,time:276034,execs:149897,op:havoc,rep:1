@@ -1,1 +1,0 @@
-BEGIN { split("a,b,c", arr, "a,b,c", arr,!","); ; for (i in arr) print arr[i] }

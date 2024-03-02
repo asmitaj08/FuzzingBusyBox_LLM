@@ -1,1 +1,0 @@
-BEGIN {print toop "Start" } { print $1 } END { prpOr("awk")} END {print tolower("AWK")}

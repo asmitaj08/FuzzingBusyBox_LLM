@@ -1,1 +1,0 @@
-BEGIN { split("a,bnt ,c", arr,a,b---p-R!","); for (i in arr) prin> arr[i] prin> arr[i] }

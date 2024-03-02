@@ -1,3 +1,0 @@
-NR % 2 ==NR % 2 ==N{ sum += $1 %NR d
-200 d
-2R %NR d	1} ENC NW % K  W!"; p

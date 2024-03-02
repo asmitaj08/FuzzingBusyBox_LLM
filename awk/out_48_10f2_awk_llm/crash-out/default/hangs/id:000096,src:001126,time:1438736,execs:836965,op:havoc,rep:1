@@ -1,1 +1,0 @@
-BEGIN {for(i=1;i<=3;u++)  for (i in arr) print -----i in a---p,--NR %i}

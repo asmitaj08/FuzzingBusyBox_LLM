@@ -1,1 +1,0 @@
-BEGIN {do{ FS=" "rint t"|"} { pn

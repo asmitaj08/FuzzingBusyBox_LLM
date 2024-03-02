@@ -1,1 +1,0 @@
-BEGIN {um +D N &&$S=" "u N &&$S=" "us FS=" "usum +D N &&$S=" "u N &&$S=" "usum +D N &&$R ---rint 4 }

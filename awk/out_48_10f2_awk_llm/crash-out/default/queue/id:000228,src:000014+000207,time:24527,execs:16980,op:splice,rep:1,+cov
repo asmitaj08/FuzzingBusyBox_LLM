@@ -1,3 +1,0 @@
-NR % 2 ==NR % 2 ==N{ sum += $1 %NR d
-A00 d
-2R %NR d	1} END NR % K  W!"; p

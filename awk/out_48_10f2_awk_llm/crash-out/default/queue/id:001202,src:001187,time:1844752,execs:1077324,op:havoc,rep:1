@@ -1,1 +1,0 @@
-BEGIN {for2int substr($0,0, 1G -i++) T_2int substr($0,0, 1G 5)TTTTi}

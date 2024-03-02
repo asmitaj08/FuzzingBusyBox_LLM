@@ -1,1 +1,0 @@
-BEGIN {for(i=1;r<=3;NF NXA$ 2---i++) print "i=",i}

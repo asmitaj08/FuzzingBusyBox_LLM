@@ -1,1 +1,0 @@
-BEGIN { sglit("a,b,c", arr, ",");;;;;;;;;;;;;;;;;;;;;;;;;;;; for (i in arr) print arr[i] }

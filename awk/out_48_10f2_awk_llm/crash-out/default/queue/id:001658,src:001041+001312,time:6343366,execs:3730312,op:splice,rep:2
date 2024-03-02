@@ -1,1 +1,0 @@
-BEGINR % 2 ==N{ sum += $1 } END NR % 2--------"!" % 2---------"!"; pri C NR; pri su==N{ su } END NR %------"! pç!"; pri su==N{ su } END NR % 2--------"! pç!"; pri C NR; pri su==N{ su } END NR % 2--------"! pç!"; prÖ 

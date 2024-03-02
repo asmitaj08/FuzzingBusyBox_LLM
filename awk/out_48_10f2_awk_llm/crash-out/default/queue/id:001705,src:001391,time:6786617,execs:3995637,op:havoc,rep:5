@@ -1,1 +1,0 @@
-BEGIN { split("a,bnn‘nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn_______________`_______________________________________________ ,c", arr,a,b---p-R!","); for (i in arr) prin^ arr[$$$$$$$1||$$i] }

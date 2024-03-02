@@ -1,1 +1,0 @@
-BEGIN { split( -6---p- arr, -6---p-R!","); for (i in arr) urint arr[i] }

@@ -1,1 +1,0 @@
-BEGIN {for(i=1;i<=3;i+x) print>";i<=3;i++) print>"i=",",i}

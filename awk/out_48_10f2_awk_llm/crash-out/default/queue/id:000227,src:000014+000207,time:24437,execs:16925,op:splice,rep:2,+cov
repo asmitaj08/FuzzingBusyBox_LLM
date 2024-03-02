@@ -1,4 +1,0 @@
-NR % 2 ==NR %NR 2 ==N{ sum += $1 %NR d
-200 d
-2R %NR d	1} END NR %= $1 %NR d
-20p

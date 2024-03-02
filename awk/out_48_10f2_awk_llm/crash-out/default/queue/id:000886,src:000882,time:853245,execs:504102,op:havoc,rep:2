@@ -1,1 +1,0 @@
-BEGIN { FS=" "usum +D N &&$S=" "usum +D N &&$R --I Wo////////////--R -=" "usum +D N &&$R --I Wo////------0rint 4 }

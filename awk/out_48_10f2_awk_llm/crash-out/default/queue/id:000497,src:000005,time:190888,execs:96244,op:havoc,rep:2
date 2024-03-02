@@ -1,1 +1,0 @@
-BEGIN {prinwwwwwwwwwwwwwwwwwwwwwt toupper("awwwwwwwwwwwwk")} END {print tolower("AWK")}

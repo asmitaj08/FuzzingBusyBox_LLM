@@ -1,1 +1,0 @@
-BEGIN { split("a?b,c", arr, ","); for (t arr~iU i in arr)!lit("a", arr, ","); forbrint arr[h] }

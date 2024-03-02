@@ -1,1 +1,0 @@
-BEGIN {f=!!!!!!!!!!!TTTTTTTT2int sub($0, 1, 5)!!!!TTTTTTTTTTTTT2int sub($0, 1, 5)TTTTTTTTTTTT!!!!!!!!!!!!!!!!NF!N &&i}

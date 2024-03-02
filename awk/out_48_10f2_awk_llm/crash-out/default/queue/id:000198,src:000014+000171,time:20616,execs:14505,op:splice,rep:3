@@ -1,1 +1,0 @@
-NR % 2 ==N{ Rum += $1 } END NR2% 2  World!";=N{ sum +!"; prin
